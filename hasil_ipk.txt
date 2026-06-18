@@ -1,0 +1,6 @@
+HASIL PERHITUNGAN IPK MAHASISWA
+===================================
+Andi : 3.62
+Budi : 2.50
+
+Rata-rata IPK kelas : 3.06
